@@ -1,6 +1,6 @@
 # iBus2USB v1.0
 
-**Target:** Arduino Leonardo Pro Micro
+**Target:** Arduino UNO
 
 **Prerequisite:** Have the Joystick library included in your "Arduino/libraries" folder*
   
